@@ -1,1 +1,3 @@
 # roleta-paises
+
+Projeto em pygame para fazer uma roleta que sorteia todos os países do mundo, para projetos futuros...
